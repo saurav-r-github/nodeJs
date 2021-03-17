@@ -1,2 +1,2 @@
 # nodeJs
-first node js project
+first node js project on GitHub
